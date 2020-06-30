@@ -10,12 +10,6 @@ class MyButton extends Component {
     };
   }
   render() {
-    // if (this.props.testProp2 == 'a')
-    //   styl = style1
-    // else if (this.props.testProp2 == 'b')
-    //   styl = style2
-    // else
-    //   styl = style3
 
     return (
       <View style={{ alignSelf: 'center' }}>
