@@ -12,7 +12,7 @@ export default class Screen1 extends Component {
         };
     }
     gogo = () => {
-        console.log("lol")
+        console.log("")
     }
     onPress = () => {
 
